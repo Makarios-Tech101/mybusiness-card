@@ -1,0 +1,28 @@
+
+
+body {
+    padding:0;
+    margin: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main {
+    width: 400px;
+    display: flex;
+    margin: auto;
+    border-radius: 5px;
+    padding: 20px;
+    background: #ddebf8;
+    justify-content: space-around;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+}
+.main .img-box img {
+    width: 160px;
+    border-radius: 100%;
+    border: 1px solid pink;
+}
+
+.main .text-box {
+    text-align: center;
+}
